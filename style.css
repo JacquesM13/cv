@@ -1,7 +1,9 @@
 h2 {
     color: rgb(174, 103, 166);
 }
-
+title{
+    text-align: center;
+}
 h1 {
     text-align: center;
 }
