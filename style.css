@@ -1,12 +1,11 @@
 h2 {
     color: rgb(174, 103, 166);
 }
-title{
-    text-align: center;
-    font-weight: 700;
-}
+
 h1 {
     text-align: center;
+    color: slategray;
+    font-family: 'Roboto', Arial, Helvetica, sans-serif;
 }
 
 .summary {
@@ -23,10 +22,6 @@ div {
 
 footer{
     font-size: 20px;
-}
-
-title {
-    color: slategray;
 }
 
 /* * {
